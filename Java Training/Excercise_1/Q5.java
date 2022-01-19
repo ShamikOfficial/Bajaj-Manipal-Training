@@ -1,6 +1,6 @@
 // Q5) WAP to implement switch statement. (any use case) 
-
-public class Main
+package Excercise_1;
+public class Q5
 {
 	public static void main(String[] args) {
 	    String day="Monday";

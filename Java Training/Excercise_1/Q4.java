@@ -1,6 +1,6 @@
 // Q4) WAP to find sum of first 10 number
-
-public class Main
+package Excercise_1;
+public class Q4
 {
 	public static void main(String[] args) {
 	    int sum=0;

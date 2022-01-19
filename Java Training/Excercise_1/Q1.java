@@ -1,6 +1,6 @@
 //Q1) WAP for implementing all the operators. (choose 3) 
-
-public class Main
+package Excercise_1;
+public class Q1
 {
   public static void main (String[]args)
   {

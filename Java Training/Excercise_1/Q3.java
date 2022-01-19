@@ -1,6 +1,6 @@
 //Q3) WAP to check year is LEAP year or not
-
-public class Main
+package Excercise_1;
+public class Q3
 {
 	public static void main(String[] args) {
 	    int year=2024;

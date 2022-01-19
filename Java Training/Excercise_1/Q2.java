@@ -1,6 +1,6 @@
 //Q2) WAP to find out prime number
-
-public class Main
+package Excercise_1;
+public class Q2
 {
 	public static void main(String[] args) {
 	    int num=13,flag=0;
